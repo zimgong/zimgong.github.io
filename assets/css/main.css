@@ -896,7 +896,7 @@ section,
   font-size: 16px;
 }
 
-.interests .features-item h3 a {
+.interests .features-item h3 span {
   color: var(--heading-color);
   transition: 0.3s;
 }
@@ -905,7 +905,7 @@ section,
   border-color: var(--accent-color);
 }
 
-.interests .features-item:hover h3 a {
+.interests .features-item:hover h3 span {
   color: var(--accent-color);
 }
 
